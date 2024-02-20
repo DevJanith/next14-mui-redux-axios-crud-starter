@@ -276,7 +276,7 @@ const Layout = ({
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h6" noWrap component="div">
-                        NEXT-API
+                        Next 14 Axios Redux Project
                     </Typography>
                     <Search>
                         <SearchIconWrapper>
