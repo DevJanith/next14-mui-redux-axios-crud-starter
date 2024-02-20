@@ -12,7 +12,7 @@ import StoreProvider from "./StoreProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NEXT-API",
+  title: "Next 14 Axios Redux Project",
   description: "",
 };
 

@@ -8,7 +8,7 @@ import PageHeader from "@/components/PageHeader";
 
 // const
 export const metadata: Metadata = {
-  title: "NEXT-API | Home",
+  title: "Next 14 Axios Redux Project | Home",
   description: "",
 };
 

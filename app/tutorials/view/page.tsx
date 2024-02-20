@@ -11,7 +11,7 @@ import TutorialViewForm from "@/sections/tutorials/view/TutorialViewForm";
 
 // const
 export const metadata: Metadata = {
-    title: "NEXT-API | Tutorial View",
+    title: "Next 14 Axios Redux Project | Tutorial View",
     description: "",
 };
 // -------------------------- | Page - Tutorials View | ----------------------

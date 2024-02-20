@@ -8,7 +8,7 @@ import TutorialList from "@/sections/tutorials/TutorialList";
 
 // const
 export const metadata: Metadata = {
-    title: "NEXT-API | Tutorials Overview",
+    title: "Next 14 Axios Redux Project | Tutorials Overview",
     description: "",
 };
 

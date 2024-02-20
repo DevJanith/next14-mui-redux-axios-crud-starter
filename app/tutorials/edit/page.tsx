@@ -10,7 +10,7 @@ import TutorialEditForm from "@/sections/tutorials/edit/TutorialEditForm";
 
 // const
 export const metadata: Metadata = {
-    title: "NEXT-API | Tutorial Edit",
+    title: "Next 14 Axios Redux Project | Tutorial Edit",
     description: "",
 };
 // -------------------------- | Page - Tutorials Edit | ----------------------
